@@ -1,2 +1,2 @@
-# WiseVoyage
-An app for voyaging
+# Vinted airbnb
+we copy paste Vinted
